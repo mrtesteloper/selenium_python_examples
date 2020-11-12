@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 selenium = "*"
 pytest = "==4.0.0"
+behave = "*"
 
 [requires]
 python_version = "3.6"
